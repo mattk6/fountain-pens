@@ -1,0 +1,66 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Matthew's Fountain pens - Survey</title>
+  <link rel="stylesheet" href="matthewsfountainpens.css">
+  <link rel="icon" href="icon.svg" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="fountainpens.js"></script>
+</head>
+<body onload="javascript:printDate();">
+  <a href="#main" class="skip">Skip to main content</a>
+  <div id="wrapper">
+    <header>
+      <img src="fountainpen.jpg" alt="FountainPen" height=140>
+      <h1>Matthew's Fountain Pen Site</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="handwriting.html">Handwriting</a></li>
+        <li><a href="mycollection.html">My Collection</a></li>
+        <li><a href="caremaintainance.html" >Care & Maintenance</a></li>
+        <li><a href="virtualmuseum.html" >Virtual Museum</a></li>
+        <li><a href="survey.html" class="active" >Survey</a></li>
+      </ul>
+    </nav>
+
+    <main id="main">
+      <h2>Survey on Fountain Pen Database</h2>
+      <p>This page will contain a form to collect feedback on what kind of features visitors would like to see from a fountain pen database or api.</p>           
+
+      <form name="survey" method="post" id="survey" action="demo.php">
+
+        <label for="email">Email:</label>
+        <input class="textbox" type="email" name="email" id="email" placeholder="Email">
+        <label for="Experiencelevel">Experience with Fountain Pens:</label>
+        <select name="Experiencelevel" id="Experiencelevel">
+          <option value="Unselected"> Select Option</option>
+          <option value="None">No experience, never owned, never used</option>
+          <option value="Novice">I own inexpensive or disposable fountain pen(s)</option>
+          <option value="User">I use a really good fountain pen regularly and I refill my ink</option>
+          <option value="Collector">I collect fountain pens</option>
+        </select>
+        <label for="comments">Comments:</label>
+        <textarea name="comments" id="comments" cols="65" rows="7" placeholder="Enter your comments here"></textarea><br><br>
+
+        <fieldset style="max-width: 500px"><legend>Are you interested in history about fountain pens?</legend>
+        <label><input type="radio" class="radiobutton" name="History" id="historyYes" value="yes">yes</label>
+        <label><input type="radio" class="radiobutton" name="History" id="historyNo" value="no">no</label>
+        </fieldset>
+        <p>
+        <input type="submit" id="submit" value="Submit">
+        <input type="reset" value="Reset">
+        </p>
+
+      </form>
+
+    </main>
+    <footer>
+      <p>Copyright &copy; <span id="year"></span> Matthew Kruse<br>Email: mkruse8@student.cccs.edu</p>
+    </footer>
+  </div>
+</body>
+</html>

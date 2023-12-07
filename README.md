@@ -20,7 +20,7 @@ Requirements for this project were to include navigation, a common header, 6 pag
 <li> 1 additional page containing a form</li>
 </ul>
 
-<h2>Key learnings</h2>
+<h2>Skills Acquired</h2>
 
 - CSS Styling
 - Making html pages accessible

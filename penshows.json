@@ -1,0 +1,238 @@
+{
+    "shows": [
+        {
+            "Name": "Philadelphia Pen Show",
+            "Country": "United States",
+            "End Date": "01/15/2023",
+            "Website": "https://phillypenshow.com",
+            "Lat": 39.95749789,
+            "Lng": -75.16728976
+        },
+        {
+            "Name": "California Pen Show",
+            "Country": "United States",
+            "End Date": "02/12/2023",
+            "Website": "https://capenshow.com/",
+            "Lat": 33.94669807,
+            "Lng": -118.3848285
+        },
+        {
+            "Name": "London Spring Pen Show",
+            "Country": "United Kingdom",
+            "End Date": "03/05/2023",
+            "Website": "https://ukpenshows.co.uk/uk-pen-show-events/london-spring-pen-show/",
+            "Lat": 51.49206588,
+            "Lng": -0.2198687116
+        },
+        {
+            "Name": "Baltimore Pen Show",
+            "Country": "United States",
+            "End Date": "03/12/2023",
+            "Website": "https://baltimorepenshow.com/",
+            "Lat": 39.19666978,
+            "Lng": -76.68286902
+        },
+        {
+            "Name": "Arkansas Pen Show",
+            "Country": "United States",
+            "End Date": "03/19/2023",
+            "Website": "https://www.arpenshow.com/",
+            "Lat": 34.75264883,
+            "Lng": -92.39281355
+        },
+        {
+            "Name": "Manila Pen Show",
+            "Country": "The Philippines",
+            "End Date": "03/19/2023",
+            "Website": "https://pencollectorsofamerica.org/event/manila-pen-show-2023/",
+            "Lat": 14.55080735,
+            "Lng": 121.0250847
+        },
+        {
+            "Name": "Atlanta Pen Show",
+            "Country": "United States",
+            "End Date": "04/02/2023",
+            "Website": "https://www.atlantapenshow.info/",
+            "Lat": 33.90640433,
+            "Lng": -84.43011913
+        },
+        {
+            "Name": "New York Metropolitan Pen Show",
+            "Country": "United States",
+            "End Date": "04/23/2023",
+            "Website": "https://www.nypenshow.com/",
+            "Lat": 41.42751074,
+            "Lng": -73.7290072
+        },
+        {
+            "Name": "Northern Pen Show (Yorkshire)",
+            "Country": "United Kingdom",
+            "End Date": "04/23/2023",
+            "Website": "https://ukpenshows.co.uk/visitor-tickets/northern-pen-show/",
+            "Lat": 53.20628006,
+            "Lng": -2.854208375
+        },
+        {
+            "Name": "Chicago Pen Show",
+            "Country": "United States",
+            "End Date": "05/07/23",
+            "Website": "https://www.chicagopenshow.com/",
+            "Lat": 42.07096338,
+            "Lng": -88.19612916
+        },
+        {
+            "Name": "Dutch Pen Show",
+            "Country": "The Netherlands",
+            "End Date": "06/04/2023",
+            "Website": "https://www.dutchpenshow.com/",
+            "Lat": 52.06106098,
+            "Lng": 5.108333929
+        },
+        {
+            "Name": "Triangle Pen Show",
+            "Country": "United States",
+            "End Date": "06/11/2023",
+            "Website": "https://trianglepenshow.com/",
+            "Lat": 35.88424753,
+            "Lng": -78.84394436
+        },
+        {
+            "Name": "St. Louis Pen Show",
+            "Country": "United States",
+            "End Date": "06/25/2023",
+            "Website": "https://stlpenshow.com/",
+            "Lat": 38.70256158,
+            "Lng": -90.44758054
+        },
+        {
+            "Name": "Birmingham Pen Show",
+            "Country": "United Kingdom",
+            "End Date": "06/25/2023",
+            "Website": "https://ukpenshows.co.uk/birmingham-international-pen-show/",
+            "Lat": 52.47615276,
+            "Lng": -1.899378145
+        },
+        {
+            "Name": "Pacific Northwest Pen Show",
+            "Country": "United States",
+            "End Date": "07/09/2023",
+            "Website": "https://pnwpenshow.com/",
+            "Lat": 45.52202568,
+            "Lng": -122.6741592
+        },
+        {
+            "Name": "Washington DC Supershow",
+            "Country": "United States",
+            "End Date": "08/06/2023",
+            "Website": "https://www.dcpenshow.com/",
+            "Lat": 38.86122815,
+            "Lng": -77.21607293
+        },
+        {
+            "Name": "San Francisco Pen Show",
+            "Country": "United States",
+            "End Date": "08/27/2023",
+            "Website": "https://www.sfpenshow.com/",
+            "Lat": 37.60364856,
+            "Lng": -122.3761681
+        },
+        {
+            "Name": "Newcastle Pen Show",
+            "Country": "United Kingdom",
+            "End Date": "09/03/2023",
+            "Website": "https://ukpenshows.co.uk/uk-pen-show-events/newcastle-pen-show/",
+            "Lat": 55.02556031,
+            "Lng": -1.511326783
+        },
+        {
+            "Name": "Orlando Pen Show",
+            "Country": "United States",
+            "End Date": "09/09/2023",
+            "Website": "https://orlandopenshow.com/",
+            "Lat": 28.4454381,
+            "Lng": -81.39550072
+        },
+        {
+            "Name": "Commonwealth Pen Show",
+            "Country": "United States",
+            "End Date": "09/17/2023",
+            "Website": "http://commonwealthpenshow.com/",
+            "Lat": 42.38158424,
+            "Lng": -71.08207436
+        },
+        {
+            "Name": "Dallas Pen Show",
+            "Country": "United States",
+            "End Date": "09/30/2023",
+            "Website": "http://www.dallaspenshow.com/wp/",
+            "Lat": 32.92695911,
+            "Lng": -96.84238216
+        },
+        {
+            "Name": "London Autumn Pen Show",
+            "Country": "United Kingdom",
+            "End Date": "10/08/2023",
+            "Website": "https://ukpenshows.co.uk/uk-pen-show-events/london-autumn-pen-show/",
+            "Lat": 51.49212577,
+            "Lng": -0.2199657741
+        },
+        {
+            "Name": "Colorado Pen Show",
+            "Country": "United States",
+            "End Date": "10/15/2023",
+            "Website": "https://www.coloradopenshow.com/",
+            "Lat": 39.77788909,
+            "Lng": -104.8649016
+        },
+        {
+            "Name": "Detroit Pen Show",
+            "Country": "United States",
+            "End Date": "10/22/2023",
+            "Website": "https://detroitpenshow.com/",
+            "Lat": 42.49273746,
+            "Lng": -83.29962997
+        },
+        {
+            "Name": "Ohio Pen Show",
+            "Country": "United States",
+            "End Date": "11/05/2023",
+            "Website": "https://theohiopenshow.com/",
+            "Lat": 40.09981564,
+            "Lng": -82.98660792
+        },
+        {
+            "Name": "Tokyo International Pen Show",
+            "Country": "Japan",
+            "End Date": "11/05/2023",
+            "Website": "https://tokyo-international-penshow.com/",
+            "Lat": 35.6553012,
+            "Lng": 139.7608172
+        },
+        {
+            "Name": "Madrid Pen Show",
+            "Country": "Spain",
+            "End Date": "11/12/2023",
+            "Website": "https://madridpenshow.com/?lang=en",
+            "Lat": 40.4616096,
+            "Lng": -3.692241371
+        },
+        {
+            "Name": "Scriptus Toronto Pen Show",
+            "Country": "Canada",
+            "End Date": "TBD",
+            "Website": "https://www.scriptusinc.com/",
+            "Lat": 43.67202374532221,
+            "Lng": -79.38682125654087
+        },
+        {
+            "Name": "Melbourne Pen Show",
+            "Country": "Australia",
+            "End Date": "11/26/2023",
+            "Website": "https://www.melbpenshow.com.au/",
+            "Lat": -37.85606384,
+            "Lng": 145.0297049
+        }
+    ]
+    
+}
+

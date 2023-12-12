@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="west_campus_style">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[video]</text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>The Pilot Pen Station</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://youtu.be/34XHSG773ZE" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>139.77048641099796,35.67686975305257,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fabriano Paper and Watermark Museum</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://youtu.be/QiT_9UqKaAg" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>12.902654139402717,43.333185761723065,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>C. Josef Lamy GmbH</name>
+      <styleUrl>#west_campus_style</styleUrl>
+      <ExtendedData>
+        <Data name="video">
+          <value><![CDATA[<iframe width="480" height="360"
+            src="https://youtu.be/2jf3lbhQR6I" frameborder="0"
+            allowfullscreen></iframe><br><br>]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>8.641392487971519,49.42564220617726</coordinates>
+      </Point>
+    </Placemark>    
+  </Document>
+</kml>
+

@@ -1,33 +1,35 @@
 <div align="center"><img src="myhand.jpeg"></div>
-<h1 align="center">Matthew's Fountain Pens with HTML & CSS</h1>
-<p align="center"><strong>This branch represents the work I learned and applied as a result of taking CWB 1010 Introduction to Web Development.</strong>
+<h1 align="center">Matthew's Fountain Pens with JavaScript</h1>
+<p align="center"><strong>This branch represents the work I learned and applied as a result of taking CWB 2005 Client-Side Scripting with JavaScript.</strong>
 <br/>
 <h2>About</h2>
-Prior to this class, I had not made a web page. My previous experience included downloading some pages with JavaScript that I found interesting. I would edit the scripts and/or html to see how adjustments affected various outcomes.    
+For this class I received approval to submit a final by enhancing my Fountain Pens site with new JavaScript capabilities.      
 
 <h2>Technologies</h2>
-For CWB 1010 Intro to Web Development, we focused on learning HTML, CSS, and a small amount of JavaScript.
+For CWB 2005 Client-Side Scripting, we focused on learning JavaScript both with embedded and external scripts.
 
 <h2>Goal and requirements</h2>
 
-The assignment for the final was to create an original web site from scratch that is both accessible and appealing with original content.
-
-Requirements for this project were to include navigation, a common header, 6 pages with original content. All to be styled with external CSS and consisting of the following:
+Requirements for this project is to incorporate a number of JavaScript elements into a personally developed website along with the following:
 <ul>
-<li> 3 pages with images</li>
-<li> 1 additional page with original multimedia</li>
-<li> 1 additional page with embedded multimedia content</li>
-<li> 1 additional page containing a form</li>
+<li>Loading a json document</li>
+<li>Filtering data</li>
+<li>Using a jQuery component</li>
+<li>Applying local storage</li>
+<li>Consume an external api</li>
 </ul>
 
-<h2>Key learnings</h2>
+<h2>Skills acquired</h2>
 
-- CSS Styling
-- Making html pages accessible
-- Color coordination
-- Making responsive pages according to screen size
-- Proper usage of html tags
-- Introductory JavaScript with dynamic content in the footer
+- Google Maps API Account Management
+- Working with Multimedia in Google Maps KML
+- Applying Google Maps InfoWindow
+- Creating Map API markers from a custom json document
+- Read and Write map data to and from local storage
+- Show/Hide html with jQuery accordion controls 
+
+<h2>Project Status</h2>
+This project is whole as submitted for my final. 
 
 <h2>Installation</h2>
 
@@ -40,4 +42,4 @@ Requirements for this project were to include navigation, a common header, 6 pag
 
 <h2>Future areas to focus on</h2>
 
-During class I found having the navigation list copied into every page to be redundant, and because of it making updates to the nav menu was tedious. In addition removing a lot of copy and paste for the menu, I also want to look into a responsive menu option that displays a hamburger when switching to a smaller window size. I am hopeful that with a future class in JavaScript, I'll learn the skills to develop my own solution that enables a hamburger menu with smaller screens.
+As this was a beginner course in JavaScript, I did not have the opportunity to explore building my own responsive navigation menu which I hoped for. This is still a goal. However I did find a way to use JavaScript to automatically set an active class to the active menu item page dynamically. I am pretty happy with where the JavaScript implementation ended up. 

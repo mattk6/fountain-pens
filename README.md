@@ -1,7 +1,9 @@
-<div align="center"><img src="myhand.jpeg"></div>
 <h1 align="center">Matthew's Fountain Pens with JavaScript</h1>
 <p align="center"><strong>This branch represents the work I learned and applied as a result of taking CWB 2005 Client-Side Scripting with JavaScript.</strong>
 <br/>
+
+![Snapshot of Significant Places Map](./significant%20places%20map.png "Screen snapshot")
+
 <h2>About</h2>
 For this class I received approval to submit a final by enhancing my Fountain Pens site with new JavaScript capabilities.      
 
@@ -30,6 +32,8 @@ Requirements for this project is to incorporate a number of JavaScript elements 
 
 <h2>Project Status</h2>
 This project is whole as submitted for my final. 
+
+Note: The Library of Significant Places map uses a KML layer that did not work in testing with localhost. At submittal time, I had not solved this in the Introductory course with JavaScript. However, you can see a working example of the map on my [deployed site on AWS Amplify](https://prod.d2779871v0ytoy.amplifyapp.com/virtualmuseum.html). 
 
 <h2>Installation</h2>
 

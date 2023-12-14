@@ -7,11 +7,10 @@ The idea for Matthew's Fountain Pens started at the beginning of my CWB 1010 Int
 
 <h2>Technologies</h2>
 Please see the following branches for details regarding what I learned and some highlights I've applied from each class:
-<ul>
-<li>CWB 1010 Intro to Web Development (HTML/CSS/JavaScript)</li>
-<li>CWB 2005 Client-Side Scripting (HTML/JavaScript)</li>
-<li>CWB 2008 Web Application Development (HTML/PHP)</li>
-</ul>
+
+[CWB 1010 Intro to Web Development](https://github.com/mattk6/fountain-pens/tree/cwb-1010) (HTML/CSS/JavaScript)<br><br>
+[CWB 2005 Client-Side Scripting](https://github.com/mattk6/fountain-pens/tree/cwb-2005) (HTML/JavaScript)<br><br>
+[CWB 2008 Web Application Development](https://github.com/mattk6/fountain-pens/tree/cwb-2008) (HTML/PHP)
 
 <h2>Installation</h2>
 

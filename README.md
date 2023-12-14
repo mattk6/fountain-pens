@@ -1,4 +1,4 @@
-<div align="center"><img src="myhand.jpeg"></div>
+<div align="center"><img src="virtual-museum.png"></div>
 <h1 align="center">Matthew's Fountain Pens with HTML & CSS</h1>
 <p align="center"><strong>This branch represents the work I learned and applied as a result of taking CWB 1010 Introduction to Web Development.</strong>
 <br/>

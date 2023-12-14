@@ -1,17 +1,28 @@
-<div align="center"><img src="myhand.jpeg"></div>
-<h1 align="center">Matthew's Fountain Pens</h1>
-<p align="center"><strong>This project titled Matthew's Fountain Pens contains a few different college submittals that I used to earn my Web Developer Certificate at FRCC.</strong>
+<h1 align="center">Matthew's Fountain Pens with PHP</h1>
+<p align="center"><strong>This branch represents the work I learned and applied as a result of taking CWB 2008 Web Application Development: DevTools (PHP).</strong>
 <br/>
+<div align="center"><img src="shopping-cart.png"></div>
+
 <h2>About</h2>
-The idea for Matthew's Fountain Pens started at the beginning of my CWB 1010 Intro to Web Development course. It has gone through a few different updates that are reflected in respective branches with applied coursework specific to both JavaScript and PHP. The main branch provides a reflection of everything I applied across the different courses.  
+For this class I received approval to submit a final by enhancing my Fountain Pens site with PHP.        
 
 <h2>Technologies</h2>
-Please see the following branches for details regarding what I learned and some highlights I've applied from each class:
+For CWB 2008, we focused on learning PHP both with embedded and external scripts, while also incorporating databases with SQLite3 and MySQL.
+
+<h2>Goal and requirements</h2>
+The assignment for the final was to create an original web site from scratch that utilizes PHP, applying everything learned within the course.  
+Requirements for this project is to incorporate the following:
 <ul>
-<li>CWB 1010 Intro to Web Development (HTML/CSS/JavaScript)</li>
-<li>CWB 2005 Client-Side Scripting (HTML/JavaScript)</li>
-<li>CWB 2008 Web Application Development (HTML/PHP)</li>
+<li>Embed common header and footer php documents into each page</li>
+<li>Use PHP to dynamically set the active nav list item</li>
+<li>Simulate a login with cookies</li>
+<li>Read content from a form and save submittals to file</li>
+<li>Read products from csv and populate DB table with PHP</li>
+<li>Establish a shopping page with a cart & submit, saving each order to file</li>
 </ul>
+
+<h2>Project Status</h2>
+The project final requirements were met. However there is more to be done, like establishing real online orders with customer information, payments, and utilizing the database for order management. Additional enhancements would include a modernized interface for login, profile, and account management. 
 
 <h2>Installation</h2>
 

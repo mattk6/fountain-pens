@@ -1,0 +1,114 @@
+{
+    "shows": [
+        {
+            "Name": "California Pen Show",
+            "Country": "United States",
+            "End Date": "02/16/2024",
+            "Website": "https://capenshow.com/",
+            "Address": "5855 W Century Blvd, Los Angeles, CA 90045, USA",
+            "Lat": 33.94669807,
+            "Lng": -118.3848285
+        },
+        {
+            "Name": "Arkansas Pen Show",
+            "Country": "United States",
+            "End Date": "03/22/2024",
+            "Website": "https://www.arpenshow.com/",
+            "Address": "925 S University Ave, Little Rock, AR 72204, USA",
+            "Lat": 34.74380289430581,
+            "Lng": -92.33998185353698
+        },
+        {
+            "Name": "Atlanta Pen Show",
+            "Country": "United States",
+            "End Date": "04/04/2024",
+            "Website": "https://www.atlantapenshow.info/",
+            "Address": "6345 Powers Ferry Rd NW, Atlanta, GA 30339, USA",
+            "Lat": 33.90640433,
+            "Lng": -84.43011913
+        },
+        {
+            "Name": "New York Metropolitan Pen Show",
+            "Country": "United States",
+            "End Date": "tbd (april)",
+            "Website": "https://www.nypenshow.com/",
+            "Address": "361 Lockwood Ln, Mahopac, NY 10541, USA",
+            "Lat": 41.42751074,
+            "Lng": -73.7290072
+        },
+        {
+            "Name": "Chicago Pen Show",
+            "Country": "United States",
+            "End Date": "05/02/24",
+            "Website": "https://www.chicagopenshow.com/",
+            "Address": "4800 Hoffman Blvd, Hoffman Estates, IL 60192, USA",
+            "Lat": 42.07096338,
+            "Lng": -88.19612916
+        },
+        {
+            "Name": "Triangle Pen Show",
+            "Country": "United States",
+            "End Date": "tbd (june)",
+            "Website": "https://trianglepenshow.com/",
+            "Address": "4810 Old Page Rd, Durham, NC 27703, USA",
+            "Lat": 35.88424753,
+            "Lng": -78.84394436
+        },
+        {
+            "Name": "Pacific Northwest Pen Show",
+            "Country": "United States",
+            "End Date": "07/13/2024",
+            "Website": "https://pnwpenshow.com/",
+            "Address": "315 SW Pine St, Portland, OR 97204, USA",
+            "Lat": 45.52202568,
+            "Lng": -122.6741592
+        },
+        {
+            "Name": "Washington DC Supershow",
+            "Country": "United States",
+            "End Date": "08/01/2024",
+            "Website": "https://www.dcpenshow.com/",
+            "Address": "3111 Fairview Park Dr, Falls Church, VA 22042, USA",
+            "Lat": 38.86122815,
+            "Lng": -77.21607293
+        },
+        {
+            "Name": "Orlando Pen Show",
+            "Country": "United States",
+            "End Date": "09/05/2024",
+            "Website": "https://orlandopenshow.com/",
+            "Address": "1500 W Sand Lake Rd, Orlando, FL 32809, USA",
+            "Lat": 28.4454381,
+            "Lng": -81.39550072
+        },
+
+        {
+            "Name": "Dallas Pen Show",
+            "Country": "United States",
+            "End Date": "tbd (september)",
+            "Website": "http://www.dallaspenshow.com/wp/",
+            "Address": "Parking lot, 4099 Valley View Ln, Farmers Branch, TX 75244, USA",
+            "Lat": 32.92695911,
+            "Lng": -96.84238216
+        },
+        {
+            "Name": "Colorado Pen Show",
+            "Country": "United States",
+            "End Date": "tbd (october)",
+            "Website": "https://www.coloradopenshow.com/",
+            "Address": "4444 Havana St, Denver, CO 80239, USA",
+            "Lat": 39.77788909,
+            "Lng": -104.8649016
+        },
+        {
+            "Name": "Detroit Pen Show",
+            "Country": "United States",
+            "End Date": "tbd (october)",
+            "Website": "https://detroitpenshow.com/",
+            "Address": "26000 American Dr, Southfield, MI 48034, USA",
+            "Lat": 42.49273746,
+            "Lng": -83.29962997
+        }
+    ]
+}
+

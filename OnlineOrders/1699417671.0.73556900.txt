@@ -1,0 +1,3 @@
+0,Blue Ink,1,14,14
+1,Black Ink,1,14,14
+3,Cartridge Fill Pen,2,24,48
